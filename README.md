@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @smartstratgy
+- 👋 Hi, I’m @smartstrategy
 - 👀 I’m interested in digital marketing
 - 🌱 I’m currently learning seo
 - 💞️ I’m looking to collaborate on technical SEO
